@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://www.javascript.com/,https://html.com/,https://www.w3.org/Style/CSS/Overview.en.html,https://getbootstrap.com/,)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)]
 <!--
 **SahilPrabhakar7/SahilPRabhakar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=SahilPrabhakar7&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilPrabhakar7&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
